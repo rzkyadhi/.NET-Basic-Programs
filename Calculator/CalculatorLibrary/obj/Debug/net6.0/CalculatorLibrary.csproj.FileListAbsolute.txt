@@ -1,0 +1,12 @@
+D:\Coding\NET-Basic-Programs\Calculator\CalculatorLibrary\bin\Debug\net6.0\CalculatorLibrary.deps.json
+D:\Coding\NET-Basic-Programs\Calculator\CalculatorLibrary\bin\Debug\net6.0\CalculatorLibrary.dll
+D:\Coding\NET-Basic-Programs\Calculator\CalculatorLibrary\bin\Debug\net6.0\CalculatorLibrary.pdb
+D:\Coding\NET-Basic-Programs\Calculator\CalculatorLibrary\obj\Debug\net6.0\CalculatorLibrary.csproj.AssemblyReference.cache
+D:\Coding\NET-Basic-Programs\Calculator\CalculatorLibrary\obj\Debug\net6.0\CalculatorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\NET-Basic-Programs\Calculator\CalculatorLibrary\obj\Debug\net6.0\CalculatorLibrary.AssemblyInfoInputs.cache
+D:\Coding\NET-Basic-Programs\Calculator\CalculatorLibrary\obj\Debug\net6.0\CalculatorLibrary.AssemblyInfo.cs
+D:\Coding\NET-Basic-Programs\Calculator\CalculatorLibrary\obj\Debug\net6.0\CalculatorLibrary.csproj.CoreCompileInputs.cache
+D:\Coding\NET-Basic-Programs\Calculator\CalculatorLibrary\obj\Debug\net6.0\CalculatorLibrary.dll
+D:\Coding\NET-Basic-Programs\Calculator\CalculatorLibrary\obj\Debug\net6.0\refint\CalculatorLibrary.dll
+D:\Coding\NET-Basic-Programs\Calculator\CalculatorLibrary\obj\Debug\net6.0\CalculatorLibrary.pdb
+D:\Coding\NET-Basic-Programs\Calculator\CalculatorLibrary\obj\Debug\net6.0\ref\CalculatorLibrary.dll

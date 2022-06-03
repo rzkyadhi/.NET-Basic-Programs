@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Vy++F9b+sZO2UKQRJSsiK0no7uYdIOJcB+Ox5qN4wI/dZ3C0f5SWv06ntRp5lk+aMe+t9C3Im8n8aVn3yB1O8A==",
+  "dgSpecHash": "PSD+5L9uWSYmq2k0KUBeZOiQwR0WoUN/q4FAZqI1C2RGSCjup7qjPD26iIl47aaZdjPv9DGCRPlAdpu+CVM4sg==",
   "success": true,
-  "projectFilePath": "D:\\Coding\\NET Basic Programs\\Calculator\\Calculator\\Calculator.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Coding\\NET-Basic-Programs\\Calculator\\Calculator\\Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

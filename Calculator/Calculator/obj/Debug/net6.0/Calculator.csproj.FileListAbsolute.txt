@@ -28,3 +28,22 @@ D:\Coding\NET Basic Programs\Calculator\Calculator\obj\Debug\net6.0\refint\Calcu
 D:\Coding\NET Basic Programs\Calculator\Calculator\obj\Debug\net6.0\Calculator.pdb
 D:\Coding\NET Basic Programs\Calculator\Calculator\obj\Debug\net6.0\Calculator.genruntimeconfig.cache
 D:\Coding\NET Basic Programs\Calculator\Calculator\obj\Debug\net6.0\ref\Calculator.dll
+D:\Coding\NET-Basic-Programs\Calculator\Calculator\bin\Debug\net6.0\Calculator.exe
+D:\Coding\NET-Basic-Programs\Calculator\Calculator\bin\Debug\net6.0\Calculator.deps.json
+D:\Coding\NET-Basic-Programs\Calculator\Calculator\bin\Debug\net6.0\Calculator.runtimeconfig.json
+D:\Coding\NET-Basic-Programs\Calculator\Calculator\bin\Debug\net6.0\Calculator.dll
+D:\Coding\NET-Basic-Programs\Calculator\Calculator\bin\Debug\net6.0\Calculator.pdb
+D:\Coding\NET-Basic-Programs\Calculator\Calculator\bin\Debug\net6.0\CalculatorLibrary.dll
+D:\Coding\NET-Basic-Programs\Calculator\Calculator\bin\Debug\net6.0\CalculatorLibrary.pdb
+D:\Coding\NET-Basic-Programs\Calculator\Calculator\obj\Debug\net6.0\Calculator.csproj.AssemblyReference.cache
+D:\Coding\NET-Basic-Programs\Calculator\Calculator\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\NET-Basic-Programs\Calculator\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+D:\Coding\NET-Basic-Programs\Calculator\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+D:\Coding\NET-Basic-Programs\Calculator\Calculator\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
+D:\Coding\NET-Basic-Programs\Calculator\Calculator\obj\Debug\net6.0\Calculator.csproj.CopyComplete
+D:\Coding\NET-Basic-Programs\Calculator\Calculator\obj\Debug\net6.0\Calculator.dll
+D:\Coding\NET-Basic-Programs\Calculator\Calculator\obj\Debug\net6.0\refint\Calculator.dll
+D:\Coding\NET-Basic-Programs\Calculator\Calculator\obj\Debug\net6.0\Calculator.pdb
+D:\Coding\NET-Basic-Programs\Calculator\Calculator\obj\Debug\net6.0\Calculator.genruntimeconfig.cache
+D:\Coding\NET-Basic-Programs\Calculator\Calculator\obj\Debug\net6.0\ref\Calculator.dll
+D:\Coding\NET-Basic-Programs\Calculator\Calculator\bin\Debug\net6.0\Newtonsoft.Json.dll
