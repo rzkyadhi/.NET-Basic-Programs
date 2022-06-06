@@ -2,11 +2,16 @@
 
 namespace Inheritance
 {
+
     public class Program
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World Modified !");
+            Book harryPotta = new("Harry Poah", "Harry", "Book", "Po ah");
+            harryPotta.Pages = 20;
+
+            Book theTempest = new("The Tempest", "Temp", "Book", "Pest");
+            theTempest.Pages = 20;
         }
     }
 }
